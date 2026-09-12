@@ -3,9 +3,9 @@
 
 <p>
 <a href="https://nikosdeliv.github.io/index.html"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
-<a href="https://nikosdeliv.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
+<a href="https://peaveepeanut.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
 <a href="https://www.linkedin.com/in/nikosdeliv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nikosdeliv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:delivosnikos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p>
