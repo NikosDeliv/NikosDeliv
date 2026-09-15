@@ -48,7 +48,8 @@
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 <td style="border: none;" valign="middle">
-
+<img src="https://github-stats-extended.vercel.app/api?username=NikosDeliv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NikosDeliv&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </td>
 <td style="border: none; width: 25px;"></td>
 <td style="border: none;" valign="middle">
